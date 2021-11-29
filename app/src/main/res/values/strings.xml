@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="david280_gmail_com">david280@gmail.com</string>
+    <string name="bullet">.........</string>
+    <string name="sign_in">Sign in</string>
+    <string name="or_with">Or With</string>
+    <string name="facebook">Facebook</string>
+</resources>
